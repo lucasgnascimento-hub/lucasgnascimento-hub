@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Lucas 👋
 
-<!--
-**lucasgnascimento-hub/lucasgnascimento-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software, atuando com operações comerciais e automação de processos.
 
-Here are some ideas to get you started:
+## Foco atual
+- Engenharia de dados e IA (Databricks, Delta Lake, pipelines de qualidade)
+- Automação de tarefas com Python e SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- **VoeBem Analytics**: pipeline de dados com dados públicos da ANAC (em breve)
+- **Sistemas Automatizados (USTJ)**: projeto acadêmico
+- **Projeto A3 - Sistemas Automatizados**: projeto acadêmico
+
+## Contato
+[LinkedIn]_(https://www.linkedin.com/in/lucas-goncalves-nascimento/) 

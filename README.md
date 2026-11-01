@@ -12,4 +12,4 @@ Estudante de Engenharia de Software, atuando com operações comerciais e automa
 - **Projeto A3 - Sistemas Automatizados**: projeto acadêmico
 
 ## Contato
-[LinkedIn]_(https://www.linkedin.com/in/lucas-goncalves-nascimento/) 
+[LinkedIn](https://www.linkedin.com/in/lucas-goncalves-nascimento/)
